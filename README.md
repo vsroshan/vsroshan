@@ -1,4 +1,4 @@
-![VS Roshan — AI Practitioner](dark.svg)
+![VS Roshan — AI Practitioner](dark-2.svg)
 
 <!--
 **vsroshan/vsroshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
